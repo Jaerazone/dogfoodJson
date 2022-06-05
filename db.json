@@ -1,20 +1,20 @@
-"mainfoods" : [
+export default [
   {
     "id" : 3,
     "title" : "건강한입 고구마츄 황태 2팩",
     "content" : "영양간식",
-    "price" : 11000
+    "price" : 11000,
   },
   {
     "id" : 4,
-    "title" : "건강한입 고구마츄 황태 3/5/10팩",
+    "title" : "건강한입 고구마츄 황태",
     "content" : "영양간식",
-    "price" : 16500
+    "price" : 16500,
   },
   {
     "id" : 5,
-    "title" : "통살육포 오리안심 50g 3/5/10팩",
+    "title" : "통살육포 오리안심 50g",
     "content" : "영양간식",
-    "price" : 18000
+    "price" : 18000,
   }
 ]
