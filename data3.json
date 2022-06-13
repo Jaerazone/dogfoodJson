@@ -1,23 +1,44 @@
 [
     {
-        "id": 6,
+        "id": 12,
         "title": "더블액션 유산균 펫 3/5/10팩",
         "content": "영양제",
         "price": 119700,
         "stock": 0
     },
     {
-        "id": 7,
+        "id": 13,
         "title": "판크프 췌장염 저단백 저지방 화식사료 1kg",
         "content": "영양제",
         "price": 53000,
         "stock": 0
     },
     {
-        "id": 8,
+        "id": 14,
         "title": "키드프 신장 신부전 노령견 화식 사료 1kg",
         "content": "영양제",
         "price": 53000,
+        "stock": 0
+    },
+    {
+        "id": 15,
+        "title": "영양 북어탕 80g",
+        "content": "보양식",
+        "price": 9000,
+        "stock": 0
+    },
+    {
+        "id": 16,
+        "title": "영양 삼계탕 80g",
+        "content": "보양식",
+        "price": 7500,
+        "stock": 0
+    },
+    {
+        "id": 17,
+        "title": "삼계탕 1팩 + 북어탕 1팩",
+        "content": "보양식",
+        "price": 5500,
         "stock": 0
     }
 ]
