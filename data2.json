@@ -1,23 +1,44 @@
 [
     {
-        "id": 3,
+        "id": 6,
         "title": "건강한입 고구마츄 황태 2팩",
         "content": "영양간식",
-        "price": 11000,
+        "price": 7200,
         "stock": 0
     },
     {
-        "id": 4,
-        "title": "건강한입 고구마츄 황태",
+        "id": 7,
+        "title": "건강한입 고구마츄 황태 5팩",
+        "content": "영양간식",
+        "price": 20500,
+        "stock": 0
+    },
+    {
+        "id": 8,
+        "title": "통살육포 오리안심 50g",
+        "content": "영양간식",
+        "price": 18000,
+        "stock": 0
+    },
+    {
+        "id": 9,
+        "title": "통살육포 닭가슴살 50g",
         "content": "영양간식",
         "price": 16500,
         "stock": 0
     },
     {
-        "id": 5,
-        "title": "통살육포 오리안심 50g",
+        "id": 10,
+        "title": "플레이츄 트릿 1+1",
         "content": "영양간식",
-        "price": 18000,
+        "price": 15000,
+        "stock": 0
+    },
+    {
+        "id": 11,
+        "title": "플레이츄 트릿 2+2",
+        "content": "영양간식",
+        "price": 30000,
         "stock": 0
     }
 ]
